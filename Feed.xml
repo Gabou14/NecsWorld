@@ -11,9 +11,9 @@
     <itunes:email>Xlax Xlaxon@gmail.com</itunes:email>
     <itunes:category text="Steaknology" />
     <image>
-      <url>https://gabou14.github.io/necsworld/IMG_5621.png</url>
+      <url>https://gabou14.github.io/NecsWorld/IMG_5621.png</url>
       <title>The NEC's Show</title>
-      <link>https://gabou14.github.io/necsworld/</link>
+      <link>https://gabou14.github.io/NecsWorld/</link>
     </image>
     <itunes:owner>
       <itunes:name>Xlax Xlaxon</itunes:name>
@@ -22,19 +22,19 @@
     <itunes:keywords>space, steak and rock'n roll</itunes:keywords>
     <copyright>Xlax Stecknology and the NEC incorporated</copyright>
     <description>The real NEC adventures</description>
-    <googleplay:image href="https://gabou14.github.io/necsworld/IMG_5621.png" />
+    <googleplay:image href="https://gabou14.github.io/NecsWorld/IMG_5621.png" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Sat, 8 Oct 2022 12:00:00 GMT</pubDate>
-    <link>https://gabou14.github.io/necsworld/Feed.xml</link>
-    <itunes:image href="https://gabou14.github.io/necsworld/IMG_5621.png" />
+    <link>https://gabou14.github.io/NecsWorld/Feed.xml</link>
+    <itunes:image href="https://gabou14.github.io/NecsWorld/IMG_5621.png" />
     <item>
       <itunes:season>1</itunes:season>
       <author>Xlax Xlaxon</author>
       <itunes:author>Xlax Xlaxon</itunes:author>
       <title>Trailer</title>
       <pubDate>Sat, 8 Oct 2022 12:00:00 GMT</pubDate>
-      <enclosure url="https://gabou14.github.io/necsworld/Trailer.mp3" type="audio/mpeg" length="34216300" />
+      <enclosure url="https://gabou14.github.io/NecsWorld/Trailer.mp3" type="audio/mpeg" length="34216300" />
       <itunes:duration>00:25</itunes:duration>
       <guid isPermaLink="false">cepod00</guid>
       <itunes:explicit>no</itunes:explicit>
