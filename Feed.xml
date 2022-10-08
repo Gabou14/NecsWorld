@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>The NEC's Show</title>
+    <googleplay:author>Xlax Xlaxon</googleplay:author>
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <rawvoice:location>Quelque part dans la galaxie</rawvoice:location>
+    <rawvoice:frequency>Weekly</rawvoice:frequency>
+    <author>Xlax Xlaxon</author>
+    <itunes:author>Xlax Xlaxon</itunes:author>
+    <itunes:email>Xlax Xlaxon@gmail.com</itunes:email>
+    <itunes:category text="Steaknology" />
+    <image>
+      <url>https://gabou14.github.io/necsworld/IMG_5621.png</url>
+      <title>The NEC's Show</title>
+      <link>https://gabou14.github.io/necsworld/</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Xlax Xlaxon</itunes:name>
+      <itunes:email>Xlax Xlaxon@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:keywords>space, steak and rock'n roll</itunes:keywords>
+    <copyright>Xlax Stecknology and the NEC incorporated</copyright>
+    <description>The real NEC adventures</description>
+    <googleplay:image href="https://gabou14.github.io/necsworld/IMG_5621.png" />
+    <language>en-us</language>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Sat, 8 Oct 2022 12:00:00 GMT</pubDate>
+    <link>https://gabou14.github.io/necsworld/Feed.xml</link>
+    <itunes:image href="https://gabou14.github.io/necsworld/IMG_5621.png" />
+    <item>
+      <itunes:season>1</itunes:season>
+      <author>Xlax Xlaxon</author>
+      <itunes:author>Xlax Xlaxon</itunes:author>
+      <title>Trailer</title>
+      <pubDate>Sat, 8 Oct 2022 12:00:00 GMT</pubDate>
+      <enclosure url="https://gabou14.github.io/necsworld/Trailer.m4a" type="audio/mpeg" length="34216300" />
+      <itunes:duration>00:12</itunes:duration>
+      <guid isPermaLink="false">cepod00</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Tout allait pour le mieux dans le meilleur des mondes... Mais c'était avant. Suivez The Nec's Show !</description>
+    </item>
+    <item>
+      <itunes:season>1</itunes:season>
+      <author>Xlax Xlaxon</author>
+      <itunes:author>Xlax Xlaxon</itunes:author>
+      <title>Titre de l'épisode</title>
+      <pubDate>Sat, 15 Oct 2022 20:00:00 GMT</pubDate>
+      <enclosure url="" type="audio/mpeg" length="34216300" />
+      <itunes:duration>01:33</itunes:duration>
+      <guid isPermaLink="false">cepod01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+        DEscription courte de l'épisode</description>
+    </item>
+  </channel>
+</rss>
